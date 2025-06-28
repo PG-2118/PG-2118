@@ -18,7 +18,7 @@
 - Streamlit Deployment + GitHub Actions
 
 🔗 Connect with me:
-- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-gawade)
+- 💼 [LinkedIn](https://www.linkedin.com/in/pratik-gawade-b0a204372)
 - 📁 [GitHub Projects](https://github.com/PG-2118?tab=repositories)
 
 📫 Email: pratikgawade2118@outlook.com
